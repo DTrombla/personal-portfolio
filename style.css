@@ -17,6 +17,9 @@ footer a:hover{
     text-decoration: none;
     color: #0F7197;
 }
+figure{
+    margin-bottom: 10px
+}
 img{
     padding:5px;
     border-width: 1px;
