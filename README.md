@@ -16,7 +16,7 @@ At the bottom of every page is a small footer containing a small copyright claim
 Please enjoy my website.
 https://dtrombla.github.io/personal-portfolio/
 
-![Image of About-me](https://github.com/DTrombla/images/blob/main/about-me.png)
+![Image of About-me](https://github.com/DTrombla/images/blob/main/about-me.PNG)
 
 
 ![Image of Portfolio](https://github.com/DTrombla/images/blob/main/Portfolio.PNG)
