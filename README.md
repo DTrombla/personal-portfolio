@@ -14,3 +14,14 @@ All pages are responsive and function correctly and seamlessly at all device wid
 At the bottom of every page is a small footer containing a small copyright claim from Duncan Trombla inc., additionally when the words "Duncan Trombla" are clicked you will be taken back to the index.html or "about me" page.
 
 Please enjoy my website.
+https://dtrombla.github.io/personal-portfolio/
+
+![Image of About-me](https://github.com/DTrombla/images/blob/main/about-me.PNG)
+
+
+![Image of Portfolio](https://github.com/DTrombla/images/blob/main/Portfolio.PNG)
+
+
+![Image of Contact](https://github.com/DTrombla/images/blob/main/Contact.PNG)
+
+
